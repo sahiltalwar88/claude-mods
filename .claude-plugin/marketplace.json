@@ -1,0 +1,19 @@
+{
+  "name": "sahil-mods",
+  "owner": {
+    "name": "Sahil Talwar"
+  },
+  "metadata": {
+    "description": "Sahil's Claude Code mods: still-going, session-ledger"
+  },
+  "plugins": [
+    {
+      "name": "still-going",
+      "source": "./still-going"
+    },
+    {
+      "name": "session-ledger",
+      "source": "./session-ledger"
+    }
+  ]
+}

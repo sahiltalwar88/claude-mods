@@ -1,0 +1,1 @@
+{ "name": "still-going", "version": "0.1.0", "description": "Above the prompt: is Claude working, waiting on something, or stopped.", "author": { "name": "Sahil Talwar" }, "types": "./types/index.d.ts" }

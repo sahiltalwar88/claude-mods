@@ -1,0 +1,1 @@
+{ "name": "session-ledger", "version": "0.1.0", "description": "A pane and /ledger: what this session changed, per request, and whether it was verified or committed.", "author": { "name": "Sahil Talwar" }, "types": "./types/index.d.ts" }
